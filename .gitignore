@@ -1,0 +1,5 @@
+*.DS_Store
+qt_5_3_2
+
+#src/qt/locale/*.qm
+*.user
